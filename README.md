@@ -4,8 +4,7 @@ This repository will hold my projects for Udacity’s Generative AI Nanodegree.
 
 ## Repository Structure
 
-- `README.md` – this file  
-- `project01_finetune_model_peft`
+- `project01`
 - `project02`
 - `project03`
 - `project04`
